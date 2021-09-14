@@ -1,6 +1,4 @@
-//import Home from './home.js'
 import {Home} from './home'
-
 
 
 const Contact = { template: '<div>Contact page <p>this is Contact</p></div>' }
