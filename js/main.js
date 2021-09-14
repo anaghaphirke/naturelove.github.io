@@ -1,5 +1,5 @@
 //import Home from './home.js'
-import {Home} from './js/home.js'
+import {Home} from './home.js'
 
 
 
